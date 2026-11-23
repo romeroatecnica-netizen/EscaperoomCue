@@ -1,0 +1,6 @@
+{
+  "name": "EscapeCue — Home & Space Escape Room Generator, Visual Floorplan Builder & Puzzle Trainer",
+  "description": "100% client-side deterministic escape room generator, interactive SVG floorplan builder, and printable Game Master kit for home, family, kids, and group play.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
